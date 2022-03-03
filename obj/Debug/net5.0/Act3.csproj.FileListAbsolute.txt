@@ -1,0 +1,15 @@
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/obj/Debug/net5.0/Act3.csproj.AssemblyReference.cache
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/obj/Debug/net5.0/Act3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/obj/Debug/net5.0/Act3.AssemblyInfoInputs.cache
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/obj/Debug/net5.0/Act3.AssemblyInfo.cs
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/obj/Debug/net5.0/Act3.csproj.CoreCompileInputs.cache
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/bin/Debug/net5.0/Act3.deps.json
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/bin/Debug/net5.0/Act3.runtimeconfig.json
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/bin/Debug/net5.0/Act3.runtimeconfig.dev.json
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/bin/Debug/net5.0/Act3.dll
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/bin/Debug/net5.0/ref/Act3.dll
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/bin/Debug/net5.0/Act3.pdb
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/obj/Debug/net5.0/Act3.dll
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/obj/Debug/net5.0/ref/Act3.dll
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/obj/Debug/net5.0/Act3.pdb
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Activities/Problems/Activities2/Act3/obj/Debug/net5.0/Act3.genruntimeconfig.cache
